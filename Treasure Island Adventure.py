@@ -1,3 +1,4 @@
+# Go on a Choose your Own Adventure style game made with Python.
 print("Welcome to Treasure Island.\nYour mission is to find the treasure.")
 direction = input("There's two directions you can go, left or right. Which way do you want to go? \n")
 if direction.upper() == "LEFT":
