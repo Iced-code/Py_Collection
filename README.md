@@ -1,2 +1,2 @@
 # Py_Collection
-print ("Hello")
+# A collection of Python projects.
