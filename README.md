@@ -10,7 +10,9 @@ A collection of Python projects made by me.
 
 A calculator which calculates the amount paid per person given the total bill, tip precentage, and amount of people. 
 
-
+```python
+amount = (float(bill) / int(people)) *  (tip + 1.00)
+```
 
 ## Hangman
 
