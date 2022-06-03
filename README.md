@@ -8,4 +8,3 @@ A collection of Python projects made by me.
 A calculator which calculates the amount paid per person given the total bill, tip precentage, and amount of people. 
 
 
-![alt text]((https://wallpaperaccess.com/full/752854.jpg))
