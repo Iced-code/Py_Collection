@@ -14,6 +14,13 @@ A calculator which calculates the amount paid per person given the total bill, t
 amount = (float(bill) / int(people)) *  (tip + 1.00)
 ```
 
+## Usage
+
+```bash
+usage: ./Hangman.py
+```
+
+
 ## Hangman
 
 A traditional game of Hangman made with python. 
