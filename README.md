@@ -25,4 +25,7 @@ Pull requests are welcome. Please make sure to update tests as appropriate.
 
 
 
-![image](https://github.com/Iced-code/Py_Collection/blob/main/mojave.jpg?raw=true)
+
+## License
+[Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
