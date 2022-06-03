@@ -1,2 +1,5 @@
-# Py_Collection
-# A collection of Python projects.
+# Python Collection
+
+A collection of Python projects made by me.
+
+##
